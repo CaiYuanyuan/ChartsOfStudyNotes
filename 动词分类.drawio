@@ -1,1 +1,79 @@
-<mxfile host="app.diagrams.net" modified="2022-08-26T06:42:38.704Z" agent="5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.198 Safari/537.36" version="20.2.7" etag="9T5x94tqjzQH3Zff7SS0" type="github"><diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">7VhZc9MwEP41Hp5gfBQnecRp0wKhU2ihw6NiK7aI7DWynINfzyqWYzsOOYD0yDQv0a43K2m/b4/YcPrx/FKQNPoEAeWGbQZzwzk3bNuybQe/lGZRaLq9bqEIBQu0UaW4Zb+oVppam7OAZg1DCcAlS5tKH5KE+rKhI0LArGk2Bt7cNSUhbSlufcLb2nsWyEjfwu5U+ivKwqjc2XJ7xZOYlMb6JllEApjVVM6F4fQFgCxW8bxPuQpeGZf794t7Ppy4lx8+Zz/JV+/j3fW314WzwSE/WV1B0ET+X9d24XpKeK7jpe8qF2UABeRJQJUT03C8SMYclxYuf1ApFxpwkktAFQgZQQgJ4UOAVNuNIZHazFIyTYJ3CliURxz8SaEaMM71Hihp+y5KmRQwWWGnHKyAUMacjCj3iD8JlwftAweBjxJIqHIVIBn0XarDXVRab8/YagwyyIVPt9jpbJFEhHSbP7ewU+er8VQjd0khplIs0EBQTiSbNslMdE6EK7sKd1xo6A+ggdOiwZDEqcp6oFnySuJqBmKyhRsKl1nEJL1NyTJAMywnTb7UeYBX9UJOskyjuAPkw0CaUiHpfGtYy6euzu2yuGlxVlUKq0z/qFYlzswjAXHWAuI7Fs+XlPyXlHT3TMmyY+3MSU2Wkhh7p6j2dAMskTUTGI8zPNg6dVYb/j2b3rbYdA0tMu3G41nT7ZHI1DmMS9aT55L7hxbhcgyDNxK4CtUq5XkYIlnQXWI4g3btiiAe5dnudtHAWDFoQGLGVbyuKJ9SyXyyoakQzkLc99xHuKnYTB7ckiUhSm4l3S3JivX3iM2m02w2K7nebcwN3aZ7rG7TaWF6g+gV0NkmX+J7Yh3fsddA6D12y+/uU6SfdQl+8I5fVtPdLd/as0xr9phvHPw0CPT0p4DeXjPlyxhwHIbZpzYIlCes8cnL+ag9CYxykSwHAcjlyySwbRKwNzWhB50EykJYA/ULTQlDMM3hKc4B6//8z5zHngPKStGEgKuY2maRYSeGwfos5ljHwwDF6k1tUQqr993OxW8=</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2022-08-26T07:45:38.984Z" agent="5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.198 Safari/537.36" etag="xYzy8wMcdtICqVSfWeEl" version="20.2.7" type="github">
+  <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
+    <mxGraphModel dx="820" dy="422" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="WIyWlLk6GJQsqaUBKTNV-0" />
+        <mxCell id="WIyWlLk6GJQsqaUBKTNV-1" parent="WIyWlLk6GJQsqaUBKTNV-0" />
+        <mxCell id="hApjz8RH8-7vzlDbX_iU-72" value="【5 种句型 和 动词的分类】" style="swimlane;startSize=30;labelBackgroundColor=default;rounded=1;sketch=1;spacingLeft=6;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="50" y="324" width="760" height="606" as="geometry" />
+        </mxCell>
+        <mxCell id="hApjz8RH8-7vzlDbX_iU-73" value="&lt;b&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;5 种基本句型&lt;br&gt;&amp;amp; 动词的分类&lt;/font&gt;&lt;/b&gt;" style="whiteSpace=wrap;html=1;align=center;rounded=1;sketch=1;spacingLeft=6;" vertex="1" parent="hApjz8RH8-7vzlDbX_iU-72">
+          <mxGeometry x="30" y="266.1" width="100" height="43.9" as="geometry" />
+        </mxCell>
+        <mxCell id="hApjz8RH8-7vzlDbX_iU-90" value="" style="group;rounded=1;sketch=1;align=left;spacingLeft=6;" vertex="1" connectable="0" parent="hApjz8RH8-7vzlDbX_iU-72">
+          <mxGeometry x="180" y="70" width="540" height="530" as="geometry" />
+        </mxCell>
+        <mxCell id="hApjz8RH8-7vzlDbX_iU-74" value="&amp;nbsp;及物 &amp;amp; 不及物动词" style="whiteSpace=wrap;html=1;align=center;rounded=1;sketch=1;spacingLeft=6;" vertex="1" parent="hApjz8RH8-7vzlDbX_iU-90">
+          <mxGeometry y="140" width="110" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="hApjz8RH8-7vzlDbX_iU-75" value="" style="edgeStyle=elbowEdgeStyle;elbow=horizontal;html=1;rounded=1;align=center;sketch=1;curved=1;spacingLeft=6;" edge="1" parent="hApjz8RH8-7vzlDbX_iU-90" source="hApjz8RH8-7vzlDbX_iU-73" target="hApjz8RH8-7vzlDbX_iU-74">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="hApjz8RH8-7vzlDbX_iU-76" value="&lt;font color=&quot;#ea6b66&quot;&gt;&lt;b&gt;⑤ 授予动词&lt;/b&gt;:&lt;/font&gt;&amp;nbsp;&lt;b&gt;&lt;font color=&quot;#67ab9f&quot;&gt;主 + 动 + 双宾&lt;/font&gt;&lt;/b&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;句型1&lt;/b&gt;：&lt;font color=&quot;#67ab9f&quot;&gt;&lt;b&gt;主 + 动 + 人间宾 + 物直宾&lt;/b&gt;&lt;/font&gt;&lt;br&gt;&lt;br&gt;我问了他一个问题：&lt;b&gt;I asked him a question.&lt;/b&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;句型2&lt;/b&gt;：&lt;b&gt;&lt;font color=&quot;#67ab9f&quot;&gt;主 + 动 + 物 + to/of/for + 人&lt;/font&gt;&lt;/b&gt;&lt;br&gt;&lt;br&gt;我问了他一个问题：&lt;b&gt;I asked&amp;nbsp; a question of him.&lt;/b&gt;&amp;nbsp;&lt;br&gt;&lt;b&gt;&lt;br&gt;句型3&lt;/b&gt;（特殊）：&lt;b style=&quot;color: rgb(103, 171, 159);&quot;&gt;主 + 动 + 人 + of + 物&lt;/b&gt;&lt;br&gt;&lt;br&gt;他抢了我的钱：&lt;b&gt;He robbed me of my money.&lt;/b&gt;" style="whiteSpace=wrap;html=1;align=left;rounded=1;sketch=1;spacingLeft=6;" vertex="1" parent="hApjz8RH8-7vzlDbX_iU-90">
+          <mxGeometry y="324.2" width="270" height="205.8" as="geometry" />
+        </mxCell>
+        <mxCell id="hApjz8RH8-7vzlDbX_iU-77" value="" style="edgeStyle=elbowEdgeStyle;elbow=horizontal;html=1;rounded=1;align=center;sketch=1;curved=1;spacingLeft=6;" edge="1" parent="hApjz8RH8-7vzlDbX_iU-90" source="hApjz8RH8-7vzlDbX_iU-73" target="hApjz8RH8-7vzlDbX_iU-76">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="hApjz8RH8-7vzlDbX_iU-78" value="" style="edgeStyle=elbowEdgeStyle;elbow=horizontal;html=1;rounded=1;align=center;sketch=1;curved=1;spacingLeft=6;" edge="1" parent="hApjz8RH8-7vzlDbX_iU-90" source="hApjz8RH8-7vzlDbX_iU-74" target="hApjz8RH8-7vzlDbX_iU-79">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-50" y="-346.7" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="hApjz8RH8-7vzlDbX_iU-79" value="&lt;b&gt;及物动词 vt&lt;/b&gt;&lt;br&gt;&lt;br&gt;&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;特点：有宾语+有被动语态&lt;/span&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;align=left;rounded=1;sketch=1;spacingLeft=6;labelBorderColor=none;" vertex="1" parent="hApjz8RH8-7vzlDbX_iU-90">
+          <mxGeometry x="150" y="45" width="150" height="57" as="geometry" />
+        </mxCell>
+        <mxCell id="hApjz8RH8-7vzlDbX_iU-80" value="" style="edgeStyle=elbowEdgeStyle;elbow=horizontal;html=1;rounded=1;align=center;sketch=1;curved=1;spacingLeft=6;" edge="1" parent="hApjz8RH8-7vzlDbX_iU-90" source="hApjz8RH8-7vzlDbX_iU-74" target="hApjz8RH8-7vzlDbX_iU-81">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-50" y="-346.7" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="hApjz8RH8-7vzlDbX_iU-81" value="&amp;nbsp;&lt;b&gt;不及物动词 vi&lt;/b&gt;&lt;br&gt;&lt;br&gt;&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;特点：没宾语+没被动语态&lt;/span&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;align=left;rounded=1;sketch=1;spacingLeft=6;" vertex="1" parent="hApjz8RH8-7vzlDbX_iU-90">
+          <mxGeometry x="150" y="233" width="150" height="53" as="geometry" />
+        </mxCell>
+        <mxCell id="hApjz8RH8-7vzlDbX_iU-82" value="" style="edgeStyle=elbowEdgeStyle;elbow=horizontal;html=1;rounded=1;align=center;sketch=1;curved=1;spacingLeft=6;" edge="1" parent="hApjz8RH8-7vzlDbX_iU-90" source="hApjz8RH8-7vzlDbX_iU-79" target="hApjz8RH8-7vzlDbX_iU-83">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="110" y="-162.70000000000005" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="hApjz8RH8-7vzlDbX_iU-83" value="&lt;font color=&quot;#ea6b66&quot;&gt;&lt;b&gt;①&amp;nbsp; 完全 及物动词 vt&lt;/b&gt;&lt;/font&gt;&lt;br&gt;&lt;br&gt;句型：&lt;b&gt;&lt;font color=&quot;#67ab9f&quot;&gt;主+ 动 vt +宾&lt;/font&gt;&lt;br&gt;&lt;/b&gt;&lt;br&gt;我爱他：&lt;b&gt;I love him.&lt;/b&gt;" style="whiteSpace=wrap;html=1;align=left;rounded=1;sketch=1;spacingLeft=6;" vertex="1" parent="hApjz8RH8-7vzlDbX_iU-90">
+          <mxGeometry x="334" width="220" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="hApjz8RH8-7vzlDbX_iU-84" value="" style="edgeStyle=elbowEdgeStyle;elbow=horizontal;html=1;rounded=1;align=center;sketch=1;curved=1;spacingLeft=6;" edge="1" parent="hApjz8RH8-7vzlDbX_iU-90" source="hApjz8RH8-7vzlDbX_iU-79" target="hApjz8RH8-7vzlDbX_iU-85">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="110" y="-162.70000000000005" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="hApjz8RH8-7vzlDbX_iU-85" value="&lt;font color=&quot;#ea6b66&quot;&gt;&lt;b&gt;② 不完全 及物动词 vt&lt;/b&gt;&lt;/font&gt;&lt;br&gt;&lt;br&gt;句型：&lt;b&gt;&lt;font color=&quot;#67ab9f&quot;&gt;主 + 动 vt + 宾 +宾补&lt;/font&gt;&lt;br&gt;&lt;/b&gt;&lt;br&gt;我使他开心&lt;b&gt;：I made him happy.&lt;br&gt;&lt;/b&gt;" style="whiteSpace=wrap;html=1;align=left;rounded=1;sketch=1;spacingLeft=6;" vertex="1" parent="hApjz8RH8-7vzlDbX_iU-90">
+          <mxGeometry x="331" y="93" width="220" height="77" as="geometry" />
+        </mxCell>
+        <mxCell id="hApjz8RH8-7vzlDbX_iU-86" value="" style="edgeStyle=elbowEdgeStyle;elbow=horizontal;html=1;rounded=1;align=center;sketch=1;curved=1;spacingLeft=6;" edge="1" parent="hApjz8RH8-7vzlDbX_iU-90" source="hApjz8RH8-7vzlDbX_iU-81" target="hApjz8RH8-7vzlDbX_iU-87">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="110" y="-14.700000000000045" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="hApjz8RH8-7vzlDbX_iU-87" value="&lt;b&gt;&lt;font color=&quot;#ea6b66&quot;&gt;&amp;nbsp;③ 完全 不及物动词 vi&lt;/font&gt;&lt;/b&gt;&lt;br&gt;&lt;br&gt;句型：&lt;b&gt;&lt;font color=&quot;#67ab9f&quot;&gt;主 + 动 vi&lt;/font&gt;&lt;/b&gt;&lt;br&gt;&lt;br&gt;他跳舞了：&lt;b&gt;He danced.&lt;/b&gt;" style="whiteSpace=wrap;html=1;align=left;rounded=1;sketch=1;spacingLeft=6;" vertex="1" parent="hApjz8RH8-7vzlDbX_iU-90">
+          <mxGeometry x="331" y="188" width="220" height="84" as="geometry" />
+        </mxCell>
+        <mxCell id="hApjz8RH8-7vzlDbX_iU-88" value="" style="edgeStyle=elbowEdgeStyle;elbow=horizontal;html=1;rounded=1;align=center;sketch=1;curved=1;spacingLeft=6;" edge="1" parent="hApjz8RH8-7vzlDbX_iU-90" source="hApjz8RH8-7vzlDbX_iU-81" target="hApjz8RH8-7vzlDbX_iU-89">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="110" y="-15.900000000000091" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="hApjz8RH8-7vzlDbX_iU-89" value="&amp;nbsp;&lt;b&gt;&lt;font color=&quot;#ea6b66&quot;&gt;④ 不完全 不及物动词 vi&lt;/font&gt;&lt;/b&gt;&lt;br&gt;&lt;br&gt;句型：&lt;b&gt;&lt;font color=&quot;#67ab9f&quot;&gt;主 + 动 vi + 主补&lt;/font&gt;&lt;/b&gt;&lt;br&gt;&lt;br&gt;她很美：&lt;b&gt;She is beautiful&lt;/b&gt;." style="whiteSpace=wrap;html=1;align=left;rounded=1;sketch=1;spacingLeft=6;labelBorderColor=none;" vertex="1" parent="hApjz8RH8-7vzlDbX_iU-90">
+          <mxGeometry x="332" y="294" width="220" height="80" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
